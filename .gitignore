@@ -1,0 +1,21 @@
+# Virtual environments
+env/
+.venv/
+backend-drf/env/
+
+# Environment variables
+.env
+
+# Django
+__pycache__/
+*.pyc
+db.sqlite3
+db.sqlite3-journal
+media/
+
+# OS / IDE
+.idea/
+.vscode/
+
+# Node (frontend)
+node_modules/
